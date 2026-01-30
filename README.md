@@ -2,12 +2,9 @@
 
 # ☕ Coffee Sales Analysis
 
-## 📚 About the Data
-This project uses an integrated coffee bean sales dataset spanning **three years** from 2019 to 2021 across the **US, UK, and Ireland**.
+## 📚 Project Overview
 
-- **Orders**: Transaction logs including Order ID, Date, and Quantity  
-- **Customers**: Profiles with names, locations (US, UK, Ireland), and loyalty status  
-- **Products**: Bean types (Arabica, Robusta, Excelsa, Liberica) with pricing details  
+This project analyzes an integrated sales dataset tracking the performance of four distinct coffee bean varieties across three international markets. By synthesizing transaction logs, customer profiles, and product specifications, the project aims to uncover consumer trends and operational insights over a three-year period.
 
 ---
 
